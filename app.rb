@@ -3,7 +3,7 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "Hiram McDaniels for Mayor!"
+    "Hiram McDaniels for Nightvale Mayor!"
   end
 
 end
